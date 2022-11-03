@@ -1,6 +1,9 @@
 # Статьи по flutter & dart
 В данном репозитории приведены русскоязычные статьи по мобильной разработке на flutter. Выражаю огромную благодарность авторам этих материалов
 
+## Виджеты
+https://github.com/fluttermapp/flutter_widgets/tree/main/lib/every_widgets
+
 ## Основы
 [Flutter, руководство для начинающих](https://habr.com/ru/company/oleg-bunin/blog/460743/)  
 [Про Flutter, кратко: Основы](https://habr.com/ru/post/430918/)  
